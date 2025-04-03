@@ -1,0 +1,7 @@
+README.md
+setup.py
+achilles.egg-info/PKG-INFO
+achilles.egg-info/SOURCES.txt
+achilles.egg-info/dependency_links.txt
+achilles.egg-info/requires.txt
+achilles.egg-info/top_level.txt
